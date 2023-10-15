@@ -106,5 +106,16 @@
             ]
          }
       ]
+   },
+   {
+      "name": "org.eclipse.jetty.server.Server",
+      "methods": [
+         {
+            "name": "<init>",
+            "parameterTypes": [
+               "org.eclipse.jetty.util.thread.ThreadPool"
+            ]
+         }
+      ]
    }
 ]
